@@ -1,10 +1,10 @@
 # Ex-03-Admin User using function-based views
 # STUDENT DETAILS :
-Name : K.Santhan Kumar
+Name : T.Ajay
 
-Department : AIML
+Department : AIDS
 
-Reference No : 23004568
+Reference No : 23007325
 # AIM : 
 Display Admin User's data using function based views in django framework.
 # STEP 1 : Create a Django Project
